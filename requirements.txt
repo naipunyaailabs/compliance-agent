@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+httpx
+requests
+pdfplumber
+bs4
+pydantic
+pydantic-settings
+weaviate-client>=4.0.0
+dotenv
+markdown
+flask
+selenium
